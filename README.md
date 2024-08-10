@@ -1,3 +1,8 @@
+[![GitHub stars](https://img.shields.io/github/stars/Pavith19/CS-and-Programming-Books?style=social)](https://github.com/Pavith19/CS-and-Programming-Books/stargazers)&nbsp;&nbsp;&nbsp;
+[![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/CS-and-Programming-Books)](https://github.com/Pavith19/CS-and-Programming-Books/commits/main)&nbsp;&nbsp;&nbsp;
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/CS-and-Programming-Books.svg?cache=remove)&nbsp;&nbsp;&nbsp;
+[!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/pavith_db)
+
 <h1 align="center">CS and Programming Books 📚</h1>
 
 <p align="center">
