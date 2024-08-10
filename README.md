@@ -1,2 +1,31 @@
-# CS-and-Programming-Books
-A collection of free CS books , complete with code examples and project guidelines for learners and developers.
+<h1 align="center">CS and Programming Books 📚</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/Pavith19/CS-and-Programming-Books" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/Pavith19/CS-and-Programming-Books" alt="License">
+</p>
+
+<p align="center">
+  <strong>A comprehensive collection of free Computer Science books, complete with code examples and project guidelines for learners and developers.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pavith19/CS-and-Programming-Books"><img src="https://img.shields.io/github/repo-size/Pavith19/CS-and-Programming-Books" alt="Repository size"></a>
+  <a href="https://github.com/Pavith19/CS-and-Programming-Books/commits/main"><img src="https://img.shields.io/github/last-commit/Pavith19/CS-and-Programming-Books" alt="Last commit"></a>
+</p>
+
+## 📘 About
+Welcome to the **CS and Programming Books** repository! This repository contains PDFs of books that are essential for Computer Science students, Software Engineering students, and programmers. These books cover a wide range of topics and are valuable resources for both beginners and experienced developers.
+
+### Key Features:
+- **Code Examples:** Many books include code snippets and full projects to help you learn by doing.
+- **Project Guidelines:** Guidance on building projects from scratch, ideal for enhancing your practical skills.
+- **Top Books:** Curated selection of the most important books in the field.
+- **Largest Free Book Collection:** This is the largest collection of free books for developers available on GitHub.
+
+## 🚀 Getting Started
+To get started, simply clone the repository and explore the collection:
+```bash
+git clone https://github.com/Pavith19/CS-and-Programming-Books.git
