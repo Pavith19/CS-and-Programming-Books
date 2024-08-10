@@ -3,14 +3,16 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/CS-and-Programming-Books.svg?cache=remove)&nbsp;&nbsp;&nbsp;
 [!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/pavith_db)
 
-<h1 align="center">CS and Programming Books 📚</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub forks">
   <img src="https://img.shields.io/github/issues/Pavith19/CS-and-Programming-Books" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/Pavith19/CS-and-Programming-Books" alt="License">
+  ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/CS-and-Programming-Books.svg?cache=remove)
 </p>
+
+<h1 align="center">CS and Programming Books 📚</h1>
 
 <p align="center">
   <strong>A comprehensive collection of free Computer Science books, complete with code examples and project guidelines for learners and developers.</strong>
