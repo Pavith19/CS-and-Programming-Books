@@ -22,7 +22,7 @@ Welcome to the **CS and Programming Books** repository! This repository contains
 
 I welcome contributions! If you have a book relevant to computer science, software engineering, or programming to share, please feel free to open a pull request. Let's grow this collection together!
 
-📚 **[👉 Contribution Guidelines 👈](CONTRIBUTING.md)** 📚
+<h2 style="background-color:yellow;padding:10px;">🚀 <a href="CONTRIBUTING.md"><strong>Check Here for Contribution Guidelines</strong></a> 🚀</h2>
 
 ## [📄 License]()
  
