@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/stars/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub forks">
   <img src="https://img.shields.io/github/issues/Pavith19/CS-and-Programming-Books" alt="GitHub issues">
-  ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/CS-and-Programming-Books.svg?cache=remove)
 </p>
 
 <h1 align="center">CS and Programming Books 📚</h1>
