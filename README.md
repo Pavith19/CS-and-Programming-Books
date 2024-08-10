@@ -5,23 +5,10 @@
 [![Repository size](https://img.shields.io/github/repo-size/Pavith19/CS-and-Programming-Books)](https://github.com/Pavith19/CS-and-Programming-Books)
 
 
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/Pavith19/CS-and-Programming-Books?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/Pavith19/CS-and-Programming-Books" alt="GitHub issues">
-</p>
-
 <h1 align="center">CS and Programming Books 📚</h1>
 
 <p align="center">
   <strong>A comprehensive collection of free Computer Science books, complete with code examples and project guidelines for learners and developers.</strong>
-</p>
-
-<p align="center">
-  
-  <a href="https://github.com/Pavith19/CS-and-Programming-Books/commits/main"><img src="https://img.shields.io/github/last-commit/Pavith19/CS-and-Programming-Books" alt="Last commit"></a>
 </p>
 
 ## 📘 About
