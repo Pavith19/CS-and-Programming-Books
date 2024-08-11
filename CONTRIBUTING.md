@@ -54,3 +54,6 @@
 - Follow the issue template for faster resolution.
 
 Thank you for contributing to the CS-and-Programming-Books collection!
+<br>
+<br>
+<p align="center"><a href="https://buymeacoffee.com/pavith_db" > <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
