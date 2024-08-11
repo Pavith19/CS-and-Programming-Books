@@ -11,48 +11,47 @@
 
 Welcome to the **CS and Programming Books** repository! This repository contains PDFs of books that are essential for Computer Science students, Software Engineering students and Programmers. These books cover a wide range of topics and are valuable resources for both beginners and experienced developers.
 
-## [📚 Available Books by Topics]()
+## 📚 Available Books by Topics
 
-| 📁 **Category** | 📚 **Description** |
-|:---------------:|:-----------------:|
-| [**Algorithm**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Algorithm) | Books on algorithms, data structures, and optimization techniques. |
-| [**Angular**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Angular) | Comprehensive resources for Angular framework development. |
-| [**Bash, Shell, Git**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Bash-shell-git) | Guides and books on bash scripting, shell commands, and version control with Git. |
-| [**C/C++**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/C-C%2B%2B) | Books covering C and C++ programming languages. |
-| [**C# (C-Sharp)**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/CSharp) | Resources on C# programming for .NET development. |
-| [**Cryptography**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Cryptography) | Books focused on cryptography, encryption techniques, and security. |
-| [**Data Communication & Networking**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Data%20communication%20and%20networking) | Networking concepts, data transmission, and communication protocols. |
-| [**Data Science**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Data%20science) | Comprehensive data science resources including machine learning, AI, and big data. |
-| [**Database**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Database) | Books on database design, SQL, NoSQL, and database management systems. |
-| [**Electronics**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Electronics) | Resources on electronics, circuit design, and embedded systems. |
-| [**Interview Specific**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Interview%20Specific) | Books focused on preparing for technical interviews. |
-| [**Java**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Java) | Comprehensive resources on Java programming language. |
-| [**JavaScript**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Javascript) | Books on JavaScript, including ES6, frameworks, and best practices. |
-| [**Kotlin**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Kotlin) | Resources for learning Kotlin programming language. |
-| [**Machine Learning**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Machine-Learning) | Extensive resources on machine learning, AI, and deep learning. |
-| [**Math**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Math) | Mathematical concepts and theories for computer science and programming. |
-| [**Matlab**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Matlab) | Resources on Matlab programming and simulations. |
-| [**Microprocessor**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Microprocessor) | Books on microprocessor design and applications. |
-| [**Node.js**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Nodejs) | Comprehensive resources on Node.js for server-side programming. |
-| [**Objective-C**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Objective-c) | Books on Objective-C, primarily used for iOS and macOS development. |
-| [**Operating System**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Operating%20system) | Resources on operating system design, concepts, and implementations. |
-| [**Parallel Computing**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Parallel%20computing) | Books focused on parallel computing and distributed systems. |
-| [**PHP**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Php) | Resources for PHP programming language, widely used for web development. |
-| [**Python**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Python) | Comprehensive resources on Python programming, including libraries and frameworks. |
-| [**R Language**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/R-lang) | Books focused on R programming language, mainly used in statistical computing. |
-| [**React Native**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/React-native) | Resources for developing mobile apps using React Native framework. |
-| [**React**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/React) | Comprehensive resources on React.js for building interactive UIs. |
-| [**Spring**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Spring) | Books on Spring framework for building enterprise Java applications. |
-| [**SQL**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Sql) | Resources for learning SQL, database querying, and management. |
-| [**Swift**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Swift) | Books on Swift programming, primarily used for iOS and macOS development. |
-| [**System Design**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/System%20Design%20%F0%9F%92%BB) | Resources focused on designing scalable and efficient systems. |
-| [**TypeScript**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Typescript) | Books on TypeScript, a typed superset of JavaScript. |
-| [**Visual Basic**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Visual-basic) | Resources on Visual Basic programming language. |
-| [**Wireless Sensor Networking**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Wireless%20sensor%20networking) | Books on wireless sensor networks and IoT applications. |
-| [**DevOps**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/dev-ops) | Comprehensive resources on DevOps practices and tools. |
-| [**HTML & CSS**](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/html-css) | Books on web development with HTML and CSS. |
+| 📁 **Category** | 🔗 **Location** | 📚 **Short Description** |
+|-----------------|-----------------|--------------------------|
+| **Algorithm** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Algorithm) | Algorithm and data structure resources. |
+| **Angular** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Angular) | Angular framework development. |
+| **Bash, Shell, Git** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Bash-shell-git) | Scripting and version control. |
+| **C/C++** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/C-C%2B%2B) | C and C++ programming. |
+| **C#** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/CSharp) | C# programming for .NET. |
+| **Cryptography** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Cryptography) | Encryption and security. |
+| **Data Communication & Networking** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Data%20communication%20and%20networking) | Networking and communication protocols. |
+| **Data Science** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Data%20science) | Data science and machine learning. |
+| **Database** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Database) | Database design and SQL. |
+| **Electronics** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Electronics) | Circuit design and embedded systems. |
+| **Interview Specific** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Interview%20Specific) | Technical interview preparation. |
+| **Java** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Java) | Java programming resources. |
+| **JavaScript** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Javascript) | JavaScript programming. |
+| **Kotlin** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Kotlin) | Kotlin programming language. |
+| **Machine Learning** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Machine-Learning) | Machine learning and AI. |
+| **Math** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Math) | Mathematical foundations and concepts. |
+| **MATLAB** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Matlab) | MATLAB programming and simulations. |
+| **Microprocessor** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Microprocessor) | Microprocessor architecture and design. |
+| **Node.js** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Nodejs) | Node.js programming. |
+| **Objective-C** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Objective-c) | Objective-C programming for iOS. |
+| **Operating System** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Operating%20system) | Operating system concepts. |
+| **Parallel Computing** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Parallel%20computing) | Parallel computing and concurrency. |
+| **PHP** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Php) | PHP programming. |
+| **Python** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Python) | Python programming. |
+| **R Language** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/R-lang) | R programming for data science. |
+| **React Native** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/React-native) | React Native for mobile development. |
+| **React** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/React) | React framework for web development. |
+| **Spring** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Spring) | Spring framework for Java. |
+| **SQL** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Sql) | SQL and database management. |
+| **Swift** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Swift) | Swift programming for iOS. |
+| **System Design** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/System%20Design%20%F0%9F%92%BB) | System design principles. |
+| **TypeScript** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Typescript) | TypeScript programming. |
+| **Visual Basic** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Visual-basic) | Visual Basic programming. |
+| **Wireless Sensor Networking** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/Wireless%20sensor%20networking) | Wireless sensor networks. |
+| **DevOps** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/dev-ops) | DevOps practices and tools. |
+| **HTML/CSS** | [Link](https://github.com/Pavith19/CS-and-Programming-Books/tree/main/html-css) | Web design with HTML and CSS. |
 
----
 
 ## [🚀 Key Features]()
 
